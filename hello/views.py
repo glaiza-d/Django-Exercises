@@ -9,6 +9,6 @@ def about(request):
     context = {
         'title': 'about',
         'name': 'Glaiza',
-        'student_id': '202410123',
+        'student_id': '2023-15665',
     }
     return render(request, 'about.html', context)
