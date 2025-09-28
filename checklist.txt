@@ -2,4 +2,4 @@ Python version: 3.11.9
 Virtual environment: Active (venv)
 Django version: 5.2.6
 Runserver Working: http://127.0.0.1:8000/ shows Django welcome page
-Git remote: Set (origin -> https://github.com/username/Django-Exercises.git)
+Git remote: Set (origin -> https://github.com/glaiza-d/msit210-template-inheritance.git)
