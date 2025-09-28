@@ -1,0 +1,5 @@
+python --version  Python 3.11.9
+venv active .\.venv\Scripts\Activate.ps1
+python -m django --version 5.2.6
+runserver working py manage.py runserver
+Git remote set
